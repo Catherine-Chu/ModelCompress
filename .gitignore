@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea
+/refCodes
+/results
+/mnist_data
+/old_version_codes
+/data
+/__pycache__/
+.DS_Store
+*/.DS_Store
+*.pyc
+*.txt
+test_python.py
